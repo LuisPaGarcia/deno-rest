@@ -32,3 +32,6 @@ You will have to add the permission for `env` use adding `--allow-env` flag.
 ```sh
 $ deno run --allow-env --allow-net ./api/index.ts
 ```
+
+<img src="https://raw.githubusercontent.com/LuisPaGarcia/deno-rest/master/screen.png"
+     alt="terminal example" />
